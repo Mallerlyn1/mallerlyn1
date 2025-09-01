@@ -1,12 +1,6 @@
 import streamlit as st
 import pandas as pd
  
-
-st.set_page_config(
-    page_title='PROYECTOS IZZI',
-    page_icon='🛰️',  
-)
-
 st.title("PROYECTOS IZZI")
 
 tabs = st.tabs(
