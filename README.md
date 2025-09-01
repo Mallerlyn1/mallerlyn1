@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mallerlyn Linares</h1>
-<h3 align="center">Ingeniero de Comunicaciones y Electrónica experiencia en integración de redes y gestión de proyectos,con conocimiento en datasciense y machine learning</h3>
+<h3 align="center">Ingeniero de Comunicaciones y Electrónica experiencia en integración y gestión de proyectos,con conocimiento en datasciense y machine learning</h3>
 
 - 🔭 I’m currently working on **a project of eficient visualization of utilization in network licenses**
 
