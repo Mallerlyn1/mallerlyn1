@@ -9,15 +9,15 @@ st.title("📊 Dashboard Licenciamiento")
 
 # Datos manuales
 df_config = pd.DataFrame([
-    {"Proyecto": "Staff online", "Downstream": 16, "Upstream": 12}
+    {"Proyecto": "Staff online", "Downstream": 4, "Upstream": 6}
 ])
 
 df_licencias = pd.DataFrame([
-    {"Tipo": "GEN1", "DS": 100, "US": 80},
-    {"Tipo": "GEN2", "DS": 340, "US": 160},
-    {"Tipo": "INTEGRACION", "DS": 24692, "US": 6575},
+    {"Tipo": "GEN1", "DS": 100, "US": 74},
+    {"Tipo": "GEN2", "DS": 1333, "US": 300},
+    {"Tipo": "INTEGRACION", "DS": 23692, "US": 6275},
     {"Tipo": "DOCSIS 3.1", "DS": 5427, "US": None},
-    {"Tipo": "STAFF", "Aplicadas_DS": 10, "Aplicadas_US": 23}
+    {"Tipo": "STAFF", "Aplicadas_DS": 4, "Aplicadas_US": 6}
 ])
 
 # Crear pestañas
